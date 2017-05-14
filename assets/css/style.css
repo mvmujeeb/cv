@@ -141,7 +141,7 @@ nav .copyright {
 }
 
 article {
-    padding: 2em;
+    padding: 1.5em;
     margin-left: 18em;
     height: 100vh;
     max-width: 1024px;
@@ -309,7 +309,7 @@ header summary {
 
 @media (max-width: 767px) {
     .l-box {
-        padding: 1em 0;
+        padding: 1em 0.2em;
     }
 }
 
@@ -343,6 +343,14 @@ header summary {
 
 .progress-bar .progress.color-3 {
     background: #607d8b;
+}
+
+.progress-bar .progress.color-4 {
+    background: #3eafe6;
+}
+
+.progress-bar .progress.color-5 {
+    background: #796b82;
 }
 
 main h1 {
